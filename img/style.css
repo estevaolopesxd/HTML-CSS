@@ -1,0 +1,32 @@
+body{
+    background: #d2d2c1 url("img/fundo.png");
+    font-family:16px Arial, Helvetica, sans-serif;
+}
+#principal{
+    width: 920px;
+   
+}
+#menu{
+    background: #c5c5b2;
+    padding:18px;
+
+}
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+.textohome{
+    background: rgb(250, 233, 233);
+   padding: 10px;
+}
+
+h3{
+    text-align: center;
+}
+img{
+    border:10px  #c5c5b2 solid; 
+    margin: 1px;
+}
+
